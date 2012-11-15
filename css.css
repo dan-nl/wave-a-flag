@@ -1,0 +1,17 @@
+h1, h2 {
+	margin: 0;
+	font-family: sans-serif;
+	font-weight: normal;
+}
+
+#wave-a-flag {
+	width: 274px;
+	height: 367px;
+	background-repeat: no-repeat;
+}
+
+#flag-canvas {
+	position: relative;
+	top: 4px;
+	left: 22px;
+}
