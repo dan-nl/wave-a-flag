@@ -59,8 +59,13 @@
 
 }( window, document ));
 
-(function( window, document, $ ) {
 
+/**
+ * algorithm author is unknown
+ * @author dan entous contact@gmtplusone.com
+ * @version 2013-10-23 05:20 gmt +1
+ */
+(function( window, document, $ ) {
 	'use strict';
 
 	var ffversion = $.fireFoxVersion(),
